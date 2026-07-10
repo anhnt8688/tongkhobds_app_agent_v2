@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834936260595",
+    "project_id": "tongkhobds-10f17",
+    "storage_bucket": "tongkhobds-10f17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834936260595:android:04d8125b7635e62d0a7486",
+        "android_client_info": {
+          "package_name": "app.bds.agent.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg0ptak-MB0jOeq95shhrchc9yg-R9DaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
